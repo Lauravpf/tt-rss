@@ -23,3 +23,8 @@ Copyright (c) 2005 Andrew Dolgov (unless explicitly stated otherwise).
 
 Uses Silk icons by Mark James: http://www.famfamfam.com/lab/icons/silk/
 
+<a href="https://heroku.com/deploy">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+
+
